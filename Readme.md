@@ -6,7 +6,7 @@ This project encompasses various phases of a compiler, each residing in its resp
 
 Presented by:
 - Anton Ashraf
-- Omar Ahmed – 20107196
+- Omar Ahmed
 - Salma Ismail
 - Marwan Hazem
 
