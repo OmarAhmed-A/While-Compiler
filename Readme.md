@@ -1,6 +1,20 @@
 # Compiler Project
 
 This project encompasses various phases of a compiler, each residing in its respective directory.
+
+## Project Contributors
+
+Presented by:
+- Anton Ashraf
+- Omar Ahmed – 20107196
+- Salma Ismail
+- Marwan Hazem
+
+Under the supervision of:
+Dr. Nsrin Ashraf
+
+A big thank you to these amazing contributors for their dedication and hard work! 🚀✨
+
 ## Directory Structure
 
 ### 01Lexical/
