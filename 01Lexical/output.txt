@@ -1,0 +1,78 @@
+symbol : #
+Keyword : include
+symbol : <
+Keyword : stdioh
+symbol : >
+Keyword : void
+Keyword : main
+symbol : (
+symbol : )
+symbol : {
+Keyword : int
+identifier : x
+symbol : ;
+Keyword : while
+symbol : (
+identifier : x
+symbol : <
+Number : 10
+symbol : )
+symbol : {
+identifier : x
+symbol : +
+symbol : +
+symbol : ;
+comment : // hi hi
+Keyword : printf
+symbol : (
+string_literal :  Hello everyone %d 
+identifier : x
+symbol : )
+symbol : ;
+comment : /* hi ya
+         gama3a 
+identifier : x
+symbol : +
+symbol : +
+symbol : ;
+symbol : }
+symbol : }
+symbol : #
+Keyword : include
+symbol : <
+Keyword : stdioh
+symbol : >
+Keyword : void
+Keyword : main
+symbol : (
+symbol : )
+symbol : {
+Keyword : int
+identifier : x
+symbol : ;
+Keyword : while
+symbol : (
+identifier : x
+symbol : <
+Number : 10
+symbol : )
+symbol : {
+identifier : x
+symbol : +
+symbol : +
+symbol : ;
+comment : // hi hi
+Keyword : printf
+symbol : (
+string_literal :  Hello everyone %d 
+identifier : x
+symbol : )
+symbol : ;
+comment : /* hi ya
+         gama3a 
+identifier : x
+symbol : +
+symbol : +
+symbol : ;
+symbol : }
+symbol : }
